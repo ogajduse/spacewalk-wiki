@@ -16,7 +16,7 @@ New features in 0.4 include:
  * Evolving support for Debian, SuSE, and Ubuntu (limited exposure in Spacewalk)
  * Automatic PXE setup with auto-generated PXE menus for physical deployments
  * Integrated DHCP and DNS management (can be enabled, but is not surfaced in Spacewalk)
- * Powerful kickstart file templating using Cheetah (see https://fedorahosted.org/cobbler/wiki/KickstartTemplating and https://fedorahosted.org/cobbler/wiki/KickstartSnippets)
+ * Powerful kickstart file templating using Cheetah (see [[KickstartTemplating]] and [[KickstartSnippets]])
  * But wait, there's more! (see [Cobbler Wiki](https://github.com/cobbler/cobbler/wiki))
 ## Quick Start Guide for Spacewalk
 
